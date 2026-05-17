@@ -2,7 +2,7 @@
 - 👀 I’m interested in information security
 - 🌱 I’m currently learning basic networking
 - 💞️ I’m looking to collaborate on Expert
-- 📫 How to reach me auwalmuhammadmunir@gmail.com
+- 📫 How to reach me officialmunir27@gmail.com
 
 
 <!---
