@@ -2,30 +2,35 @@
 
 ### Cybersecurity Practitioner | OSINT Researcher | Workflow Engineer
 
-👋🏽 I'm Muhammad, a cybersecurity practitioner with a keen interest in **Open-Source Intelligence (OSINT)**, **institutional systems**, and **digital transformation**. My work focuses on developing robust solutions and optimizing workflows in complex environments.
+I build and document small, testable systems at the intersection of cybersecurity, open-source intelligence (OSINT), workflow automation, and institutional digital transformation. My portfolio emphasizes implementation notes, reproducible experiments, and clear project boundaries rather than unsupported deployment claims.
 
----
+## Current focus
 
-## 🌱 Current Focus & Learning
+- Defensive security fundamentals, threat analysis, and security operations learning
+- OSINT collection, source evaluation, evidence normalization, and research writing
+- n8n and Python workflow orchestration with human review points
+- Data-oriented reporting and visualisation for operational and institutional contexts
+- Research into practical digital transformation for justice and public-service systems
 
-- **Cybersecurity Learning**: Deepening expertise in security operations, threat analysis, and defensive strategies.
-- **OSINT Direction**: Exploring advanced techniques for open-source intelligence gathering and analysis.
-- **Institutional Systems Interest**: Investigating the architecture and security of large-scale organizational systems.
-- **Judicial Digital Transformation**: Researching and prototyping solutions for modernizing legal and governmental digital processes.
-- **Automation Engineering**: Building efficient, scalable automation workflows, particularly with tools like n8n.
-- **Workflow Architecture**: Designing resilient and effective data and process flows.
-- **Data-Oriented Thinking**: Applying data analysis and visualization to enhance security and intelligence operations.
+## Selected work
 
----
+| Repository | Status | What it demonstrates |
+| --- | --- | --- |
+| [Munir-Portfolio-](https://github.com/Al-arify/Munir-Portfolio-) | Prototype | Portfolio concepts, PACER research direction, and implementation notes |
+| [n8n-workflows](https://github.com/Al-arify/n8n-workflows) | Early development | Versioned workflow exports, approval logic, and automation experiments |
+| [threat-intelligence-labs](https://github.com/Al-arify/threat-intelligence-labs) | Early development | IOC/CVE research templates and OSINT case-study practice |
+| [SOC-projects](https://github.com/Al-arify/SOC-projects) | Concept | Planned SOC exercises and evidence requirements |
+| [Cybernation-lab](https://github.com/Al-arify/Cybernation-lab) | Concept | Structured lab notebook for future hands-on exercises |
 
-## 🤝 Collaboration & Contact
+## Working principles
 
-I am open to collaborating on projects that align with my interests in cybersecurity, OSINT, and workflow automation. Feel free to reach out via email.
+- Label concepts, prototypes, and implemented features separately.
+- Keep secrets, private data, and real-world targets out of public examples.
+- Prefer small reproducible experiments over broad claims.
+- Record assumptions, limitations, and next steps alongside results.
 
-📫 **Email**: officialmunir27@gmail.com
+## Contact
 
----
+Email: [officialmunir27@gmail.com](mailto:officialmunir27@gmail.com)
 
-<!--
-This README is dynamically generated to showcase my professional profile on GitHub.
--->
+This profile is a work in progress. The repositories are being developed incrementally as learning and proof-of-work projects.
